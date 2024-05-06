@@ -1,0 +1,10 @@
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\bin\Debug\Jogo_do_Galo.exe.config
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\bin\Debug\Jogo_do_Galo.exe
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\bin\Debug\Jogo_do_Galo.pdb
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\obj\Debug\Jogo_do_Galo.csproj.AssemblyReference.cache
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\obj\Debug\Jogo_do_Galo.Form1.resources
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\obj\Debug\Jogo_do_Galo.Properties.Resources.resources
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\obj\Debug\Jogo_do_Galo.csproj.GenerateResource.cache
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\obj\Debug\Jogo_do_Galo.csproj.CoreCompileInputs.cache
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\obj\Debug\Jogo_do_Galo.exe
+D:\VS2022\Projects\Jogo_do_Galo\Jogo_do_Galo\obj\Debug\Jogo_do_Galo.pdb
